@@ -34,6 +34,14 @@ Based on Application
 - reference branch circuit
 - Startup circuit
 #### Analysis of CTAT Voltage generation circuit
+![CTAT voltage gen](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20gen.png)
+
+
+
+
+
+
+
 
 
 ## Comparison  
