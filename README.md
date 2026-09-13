@@ -1,7 +1,13 @@
 # Analog-Bandgap-Reference using Sky 130 PDK
 A bandgap voltage reference is a voltage reference circuit used in integrated circuits. It produces an almost constant voltage corresponding to the particular semiconductor's theoretical band gap, with very little fluctuations from variations of power supply, electrical load, time, temperature (as of 1999, they typically have an initial error of 0.5–1.0% and a temperature coefficient of 25–50 ppm/°C).[1]
-# FPGA-Fabric-Design-and-Architecture
-refers to the internal structure and organization of a Field-Programmable Gate Array (FPGA) and other variants like OpenFPGA,RISCV Core on Vivado,SOFA and RISC-V core on custom SOFA fabric
+### Introduction to Band gap reference
+Typically, Integrated circuits or SoC's have various analog and Digital subsystems that require various supply voltages which is being provided by LDO's. These LDO's are in turn provided by independent biasing ( Process-Voltage - Temperature). For a required Vref=1V, the Tempco = 10-50ppm/degree C and PSRR= 40-60 dB. 
+Basically, the generation of reference voltage can be done by 
+#### Voltage divider network - This has good temperature co-efficient, but sensitivity is unity.
+#### Forward biased pn junction - It has temperature coefficient of 2233ppm/degree centigrade and sensitivity is less than unity
+#### Base Emitter Voltage referenced circuit - is the improved version of above ones which has a good PSRR but temp coefficient =2333ppm/degree C.
+The best solution is to have Bandgap reference which consists of negative voltage
+
 ![FPGA_Architecture](https://github.com/sneh2411/FPGA-Fabric-Design-and-Architecture/blob/main/FPGA_Architecture.png).
 
 ### Day 1 – Introduction to FPGA Architecture, Programming and Vivado Design Flow using Basys board. 
