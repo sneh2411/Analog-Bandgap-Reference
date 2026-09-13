@@ -33,6 +33,11 @@ Based on Application
 - Self biased current mirror circuit
 - reference branch circuit
 - Startup circuit
+####The software used in this workshop:
+- NgSpice - Circuit Simulation
+- Magic - Layout
+- Netgen - LVS and Post layout
+
 #### Analysis of CTAT Voltage generation circuit
 ![CTAT voltage gen](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20gen.png)
 ![ CTAT voltage generation code](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20volatge%20generation_code.png)
@@ -52,6 +57,5 @@ Based on Application
 
 
 
-### The complete flow for a FPGA Programming on Vivado:
-- Simulation
-  ![Simulation_Counter](https://github.com/sneh2411/FPGA-Fabric-Design-and-Architecture/blob/154bce882
+### Layout Design
+#### LVS and Post layout
