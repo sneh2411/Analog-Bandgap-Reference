@@ -9,22 +9,32 @@ Basically, the generation of reference voltage can be done by
 The best solution is to have Bandgap reference which consists of negative voltage and positive voltage that gets added up to give a reference voltage for temperature coefficient of 10 - 50ppm/degree centigrade. 
 
 ![Bandgap reference](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/Bandgap%20reference.png) 
-<img width="300" height="200" alt = ![Bandgap reference] src="(https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/Bandgap%20reference.png)" />
-### Day 1 – Introduction to FPGA Architecture, Programming and Vivado Design Flow using Basys board. 
-## Objective
 
-The objective of Day 1 was to understand the fundamentals of FPGA architecture, FPGA design flow, and implementation of a simple digital design using Xilinx Vivado on the Basys 3 FPGA board and remotely too
+#### Introduction to Bandgap Reference
+A Bandgap reference is integrated in bulk CMOS or in transistor technologies without any external components.
+Significance of Bandgap reference:
+- Low Dropout regulators
+- Analog to Digital Converters
+- DC to DC Buck Converter
+- Digital to Analog Converter
 
-#### Introduction to FPGA (Field Programmable Gate Array)
-A field-programmable gate array (FPGA) is a type of configurable integrated circuit that can be repeatedly programmed . 
+###Types of Bandgap Reference [BGR]
+Based on Architecture
+- Self biased Current Mirror
+- Operational Amplifier
+Based on Application
+- Low Voltage BGR
+- Low Power BGR
+- High PSRR and low noise BGR
+- Curvature compensated BGR
+####Different Components of Bandgap Reference are
+- CTAT voltage generation circuit
+- PTAT voltge generation circuit
+- Self biased current mirror circuit
+- reference branch circuit
+- Startup circuit
+#### Analysis of CTAT Voltage generation circuit
 
-Significance of FPGA:
-- Hardware acceleration
-- Signal processing
-- Embedded systems
-- Machine learning
-- Aerospace systems
-- High-performance computing
 
 ## Comparison  
 
