@@ -8,7 +8,7 @@ Basically, the generation of reference voltage can be done by
 #### Base Emitter Voltage referenced circuit - is the improved version of above ones which has a good PSRR but temp coefficient =2333ppm/degree C.
 The best solution is to have Bandgap reference which consists of negative voltage and positive voltage that gets added up to give a reference voltage for temperature coefficient of 10 - 50ppm/degree centigrade. 
 
-![Bandgap reference](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/Bandgap%20reference.png) alt="Bandgap reference" width="400" height="300">.
+![Bandgap reference](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/Bandgap%20reference.png) 
 <img width="300" height="200" alt="image" src="(https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/Bandgap%20reference.png)" />
 ### Day 1 – Introduction to FPGA Architecture, Programming and Vivado Design Flow using Basys board. 
 ## Objective
