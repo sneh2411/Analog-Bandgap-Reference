@@ -1,3 +1,4 @@
 # Analog-Bandgap-Reference
-A bandgap voltage reference is a voltage reference circuit widely used in integrated circuits. It produces an almost constant voltage corresponding to the particular semiconductor's theoretical band gap, with very little fluctuations from variations of power supply, electrical load, time, temperature (as of 1999, they typically have an initial error of 0.5–1.0% and a temperature coefficient of 25–50 ppm/°C).[1]
-
+A bandgap voltage reference is a voltage reference circuit used in integrated circuits. It produces an almost constant voltage corresponding to the particular semiconductor's theoretical band gap, with very little fluctuations from variations of power supply, electrical load, time, temperature (as of 1999, they typically have an initial error of 0.5–1.0% and a temperature coefficient of 25–50 ppm/°C).[1]
+The basic components of Bandgap reference design consists of
+1. 
