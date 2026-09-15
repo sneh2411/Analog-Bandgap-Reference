@@ -44,7 +44,7 @@ Based on Application
 The analysis of CTAT voltage generation with single unit transistor and multibit transistor is shown below. The single bit gives less negative slope i.e. -1.745mV/degree C and with multibit transistor gives -1.914mV/degree C.
 ![CTAT voltage generation ](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20generation.png)
 The graph below shows the CTAT voltage generation with variable currents.
-![CTAT voltage generaion with variable currents]()
+![CTAT voltage generaion variable current](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20gen%20with%20variable%20current.png)
 
 #### PTAT Voltage Generation
 
