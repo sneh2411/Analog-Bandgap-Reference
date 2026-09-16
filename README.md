@@ -49,7 +49,7 @@ The graph below shows the CTAT voltage generation with variable currents.
 #### PTAT Voltage Generation
 The basic voltage generation circuit is as shown below
 ![PTAT Voltage Generation](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20Voltage%20Generation.png)
-![]()
+![PTAT voltage generation](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20voltage%20generation.png)
 #### BGR using Ideal OP-AMP
 
 
