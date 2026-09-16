@@ -45,11 +45,18 @@ The analysis of CTAT voltage generation with single unit transistor and multibit
 ![CTAT voltage generation ](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20generation.png)
 The graph below shows the CTAT voltage generation with variable currents.
 ![CTAT voltage generaion variable current](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/CTAT%20voltage%20gen%20with%20variable%20current.png)
-
 #### PTAT Voltage Generation
-The basic voltage generation circuit is as shown below
+The basic voltage generation circuit is as shown below:
+
 ![PTAT Voltage Generation](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20Voltage%20Generation.png)
+The code for PTAT voltage generation is as shown below:
 ![PTAT voltage generation](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20voltage%20generation.png)
+### Analysis of PTAT Voltage generation:
+- plot v(qp1) = -1.654mV which is similar to CTAT.
+- plot v(qp1) v(ra1) = -1.66mV
+- plot v
+
+
 #### BGR using Ideal OP-AMP
 
 
