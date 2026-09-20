@@ -65,6 +65,7 @@ The final results for the above plots is as shown below
 
 ![PTAT voltage generation final results](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20voltage_generation_final%20results.png)
 #### BGR using Ideal OP-AMP
+- For DC simulation op-amp is fine
 - plot v(qp1) v(ra1) is same
 - current of that branch i.e. vid1#branch vid2#branch is also same
 - plot v(qp3) = -1.65mV is a CTAT voltage
@@ -73,12 +74,7 @@ The final results for the above plots is as shown below
 ![BGR_using_ideal_opamp_analysis](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/BGR%20using%20ideal%20opamp_analysis.png)
 ![BGR_using_idealopamp](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/BGR%20using%20ideal%20opamp.png)
 #### BGR using Self biased current mirror circuit
-
-
-
-
-
-
+- For transient simulation we perform self-biased current mirror is used
 
 ### Layout Design
 #### LVS and Post layout
