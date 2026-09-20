@@ -57,9 +57,12 @@ The code for PTAT voltage generation is as shown below:
 - plot v(qp2) = -1.87mV
 - plot v(ra1) - v(qp2) = 187microV which is a PTAT
 - plot vid1#branch vid2#branch are overlapped
+  
 The final results for the above plots is as shown below
-![]()
+![PTAT_Voltage_q1](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT_Voltage_q1.png)
+
 ![PTAT_results](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT_results.png)
+
 ![PTAT voltage generation final results](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/PTAT%20voltage_generation_final%20results.png)
 #### BGR using Ideal OP-AMP
 
