@@ -75,6 +75,12 @@ The final results for the above plots is as shown below
 ![BGR_using_idealopamp](https://github.com/sneh2411/Analog-Bandgap-Reference/blob/main/BGR%20using%20ideal%20opamp.png)
 #### BGR using Self biased current mirror circuit
 - For transient simulation we perform self-biased current mirror is used
-
+Advantages :
+- Simple Topology
+- Always Stable
+Disadvantages:
+-Output vary with input voltage so cascode self biased current mirror is used but it will cost voltage headroom.
+![]()
+Hence, we use start up circuit
 ### Layout Design
 #### LVS and Post layout
