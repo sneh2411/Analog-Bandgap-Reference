@@ -55,7 +55,7 @@ The code for PTAT voltage generation is as shown below:
 - plot v(qp1) = -1.654mV which is similar to CTAT.
 - plot v(qp1) v(ra1) = -1.66mV
 - plot v(qp2) = -1.87mV
-- plot v(ra1) - v(qp2) = 0.187microV which is a PTAT
+- plot v(ra1) - v(qp2) = 187microV which is a PTAT
 - plot vid1#branch vid2#branch are overlapped
 
 #### BGR using Ideal OP-AMP
